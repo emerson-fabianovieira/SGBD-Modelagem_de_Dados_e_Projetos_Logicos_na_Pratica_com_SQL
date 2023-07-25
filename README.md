@@ -1,6 +1,14 @@
-# SGBD - Modelagem de Dados e Projetos Lógicos na Prática com SQL
 
+# SGBD - Modelagem de Dados e Projetos Lógicos na Prática com SQL
 ## Modelagem de Dados e Projetos Lógicos na Prática com SQL
+<img src="https://icongr.am/devicon/git-original.svg?size=77&color=currentColor">  </a>
+<img src="https://icongr.am/devicon/gitlab-original.svg?size=77&color=currentColor">
+<img src="https://icongr.am/devicon/java-original.svg?size=77&color=currentColor">  </a>
+<img src="https://icongr.am/devicon/postgresql-original.svg?size=77&color=currentColor">  </a>
+<img src="https://icongr.am/devicon/python-original.svg?size=77&color=currentColor">  </a>
+<img src="https://icongr.am/devicon/redis-original-wordmark.svg?size=77&color=currentColor">  </a>
+<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=77&color=f2eeee">
+<img src="https://icongr.am/devicon/mysql-original.svg?size=77&color=f2eeee">  
 
 #####  - Introdução a Banco de Dados
 #####  - Sistemas de Gerenciamento de Banco de Dados
@@ -18,11 +26,3 @@
 #####  - Construa um Projeto Lógico de Banco de Dados do Zero
 
 ##
-![GitHub language count](https://img.shields.io/github/languages/count/:user/:repo)
-
-##
-<img align="center" alt="emerson-fabianovieira-Git" height="30" width="57" src="https://badgen.net/badge/icon/git?icon=git&label"> <img align="center" alt="emerson-fabianovieira-GitHub" height="30" width="77" src="https://badgen.net/badge/icon/github?icon=github&label"> <img align="center" alt="emerson-fabianovieira-GitLab" height="30" width="72" src="https://badgen.net/badge/icon/gitlab?icon=gitlab&label">
-
-  <img align="center" alt="emerson-fabianovieira-GitHub" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><br><br>
-	
- https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
